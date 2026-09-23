@@ -1,0 +1,94 @@
+[
+ {
+  "id": "1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg",
+  "title": "Zuzalu Song — first take in the Zuzalu Library",
+  "date": null,
+  "week": null,
+  "source": "Zuzalu Library, Chiang Mai · January 2025",
+  "media": [
+   {
+    "id": "1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "thumb": "thumbs/1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg.jpg",
+  "speakers": [
+   "Shaka Lei Kaumaka"
+  ],
+  "featured": true,
+  "note": "Wave 1 · the bard's own tape · the first take, between the bookshelves · transcript queued to the pipeline 🌱 — the pit marks it pending rather than inventing it"
+ },
+ {
+  "id": "1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3",
+  "title": "Todo Es Posible (Pinolero Demo Track 2)",
+  "date": null,
+  "week": null,
+  "source": "Nicaragua · an original · @Música_Con_JAMón",
+  "media": [
+   {
+    "id": "1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "thumb": "thumbs/1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3.jpg",
+  "speakers": [
+   "Shaka Lei Kaumaka"
+  ],
+  "featured": false,
+  "note": "Wave 1 · the Pinolero demo · the same \"Todo Es Posible\" that scored the Kala gift-trail movie · transcript queued 🌱"
+ },
+ {
+  "id": "1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t",
+  "title": "Where Does the Impact Drift? (Live at IERR Iceland 2026)",
+  "date": null,
+  "week": null,
+  "source": "IERR Iceland 2026 · the birthplace of Simocracy · live",
+  "media": [
+   {
+    "id": "1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t",
+    "kind": "audio",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "thumb": "thumbs/1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t.jpg",
+  "speakers": [
+   "Shaka Lei Kaumaka"
+  ],
+  "featured": true,
+  "note": "Wave 1 · audio transmission (m4a) · the song from the birthplace of Simocracy · cover art is a procedural placeholder — the real card lands with the wave · transcript queued 🌱"
+ },
+ {
+  "id": "1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u",
+  "title": "Turkey Uke",
+  "date": null,
+  "week": null,
+  "source": "ZuConnect Istanbul 2023 era · Türkiye",
+  "media": [
+   {
+    "id": "1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "thumb": "thumbs/1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u.jpg",
+  "speakers": [
+   "Shaka Lei Kaumaka"
+  ],
+  "featured": false,
+  "note": "Wave 1 · the Istanbul uke days — the same road that left Waterman ukuleles with a blind children's music program · transcript queued 🌱"
+ }
+]
