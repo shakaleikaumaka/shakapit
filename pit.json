@@ -24,19 +24,21 @@
  "source": [
   {
    "type": "google-drive-file",
-   "note": "wave-1 sessions stream from the family's Drive by file id; wave 2 (25 jams) is landing from the StreamYard vault rescue — declared means declared, not done. See README."
+   "note": "all 14 sessions stream from the family's Drive by file id; durations are the StreamYard manifest's own clocks. wave 2a (10 jams) landed 2026-09-23; wave 2b (15 more) is still descending from the vault rescue — declared means declared, not done. See README."
   }
  ],
  "counts": {
-  "sessions": 4,
+  "sessions": 14,
   "transcripts": 0,
-  "incoming": 25
+  "incoming": 15
  },
  "sessions": [
   {
    "id": "1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg",
    "title": "Zuzalu Song — first take in the Zuzalu Library",
-   "speakers": ["Shaka Lei Kaumaka"],
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
    "duration": null,
    "media": {
     "drive": "https://drive.google.com/file/d/1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg/view",
@@ -49,7 +51,9 @@
   {
    "id": "1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3",
    "title": "Todo Es Posible (Pinolero Demo Track 2)",
-   "speakers": ["Shaka Lei Kaumaka"],
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
    "duration": null,
    "media": {
     "drive": "https://drive.google.com/file/d/1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3/view",
@@ -62,7 +66,9 @@
   {
    "id": "1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t",
    "title": "Where Does the Impact Drift? (Live at IERR Iceland 2026)",
-   "speakers": ["Shaka Lei Kaumaka"],
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
    "duration": null,
    "media": {
     "drive": "https://drive.google.com/file/d/1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t/view",
@@ -75,7 +81,9 @@
   {
    "id": "1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u",
    "title": "Turkey Uke",
-   "speakers": ["Shaka Lei Kaumaka"],
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
    "duration": null,
    "media": {
     "drive": "https://drive.google.com/file/d/1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u/view",
@@ -84,6 +92,156 @@
    "transcript": null,
    "featured": false,
    "note": "ZuConnect Istanbul 2023 era · the road of the ukulele nodes"
+  },
+  {
+   "id": "1AZ-LpP4QwKI6gghjwmh2O5Ft8xP5Kz-9",
+   "title": "Pectra Jam @ Zuitzerland",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:02:41",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1AZ-LpP4QwKI6gghjwmh2O5Ft8xP5Kz-9/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-05-07 · Zuitzerland · the Swiss Alps village · May 2025"
+  },
+  {
+   "id": "1jQFXtiFP2l9xu_HT1_nHkDvZb0hC62rq",
+   "title": "@ETHBelgrade Hackathon Last Jam",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:29:49",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1jQFXtiFP2l9xu_HT1_nHkDvZb0hC62rq/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-06-05 · ETHBelgrade hackathon · Belgrade · June 2025"
+  },
+  {
+   "id": "1GHQ72a8YTZ0gKCugJICy1Cx--iiuyNU1",
+   "title": "ETH CC CLOSING PARTY (audio only)",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "05:00:50",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1GHQ72a8YTZ0gKCugJICy1Cx--iiuyNU1/view",
+    "kind": "audio"
+   },
+   "transcript": null,
+   "featured": true,
+   "note": "2025-07-03 · ETH CC · Cannes · July 2025 · audio transmission"
+  },
+  {
+   "id": "1kmlYB79C2n0YChl-S7zsp8bZNbDBiUcK",
+   "title": "ZuKas Opening Sessions",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "02:51:45",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1kmlYB79C2n0YChl-S7zsp8bZNbDBiUcK/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-09-11 · ZuKas · the Aegean village · September 2025"
+  },
+  {
+   "id": "1nfDIHKjGx_JxAPtkA1wFBl1lYb2MU1uG",
+   "title": "Jammin with DJ TAAA at ANDA Cafe, ZuKas",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "02:13:54",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1nfDIHKjGx_JxAPtkA1wFBl1lYb2MU1uG/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": true,
+   "note": "2025-09-16 · ANDA Cafe, ZuKas · September 2025"
+  },
+  {
+   "id": "1PMXDj1owMIood0IatGduixSrYvwMYmHp",
+   "title": "Anda Jam day 2 ZuKas",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "00:38:31",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1PMXDj1owMIood0IatGduixSrYvwMYmHp/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-09-17 · ANDA Cafe, ZuKas · day two · September 2025"
+  },
+  {
+   "id": "1LFlIfb_nWL9rsWfMweMyYpU9MPf1H-cJ",
+   "title": "Mermaids & Sculptors: an Advanced Vibe Engineering Session",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "02:21:56",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1LFlIfb_nWL9rsWfMweMyYpU9MPf1H-cJ/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-10-24 · Edge City Patagonia era · October 2025"
+  },
+  {
+   "id": "1caunVll2uySTfA6ghjo2GlImzGGdZVaE",
+   "title": "All of The Lights: Open Mic / Talent Showcase",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:52:37",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1caunVll2uySTfA6ghjo2GlImzGGdZVaE/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-11-03 · Edge City Patagonia era · November 2025"
+  },
+  {
+   "id": "1gLQ23Y2-s5E_jdy8tZw2UJVeIVvs7v1s",
+   "title": "edge song",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "00:11:22",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1gLQ23Y2-s5E_jdy8tZw2UJVeIVvs7v1s/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-11-12 · Edge City Patagonia era · November 2025"
+  },
+  {
+   "id": "1XRss2lDv1i_p5ek69ihJxU71KPv9hb1w",
+   "title": "IERR Song Creation",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "00:29:54",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1XRss2lDv1i_p5ek69ihJxU71KPv9hb1w/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-08-09 · IERR · the writing room · August 2025"
   }
  ],
  "llm": {
@@ -92,6 +250,6 @@
  },
  "hub": "https://publicinform.com",
  "registry": "https://publicinform.com/pits.json",
- "generated": "2026-09-23T04:45:00Z",
+ "generated": "2026-09-23T10:30:00Z",
  "generator": "sysadmin 🫡 + the AI ʻohana · the 2026-09-23 pit-for-everything order"
 }

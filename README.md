@@ -15,7 +15,22 @@ Every fork of the P.I.T. holds a community's knowledge in the open: 149 sessions
 | **Where Does the Impact Drift? (Live at IERR Iceland 2026)** | the birthplace of Simocracy | audio |
 | **Turkey Uke** | ZuConnect Istanbul 2023 era | video |
 
-**Wave 2 — declared, landing from the vault 🛬:** 25 more jams found in the family's StreamYard vault (Zu-village nights, festival stages, Zuzalu Library sessions, lofi home hours). They are being rescued to Drive right now and become real sessions the moment their Drive ids land. The site lists them honestly — **declared means declared, not done.** No dead links, no invented durations, no fabricated lyrics.
+**Wave 2a — the first ten jams landed (2026-09-23):** ten vault rescues promoted to real sessions, every Drive link verified publicly streaming before publish, durations honest from the StreamYard manifest.
+
+| session | where | kind |
+|---|---|---|
+| **Pectra Jam @ Zuitzerland** | the Swiss Alps village · May 2025 | video · 01:02:41 |
+| **@ETHBelgrade Hackathon Last Jam** | Belgrade · June 2025 | video · 01:29:49 |
+| **ETH CC CLOSING PARTY (audio only)** | Cannes · July 2025 · the 5-hour marathon | audio · 05:00:50 |
+| **ZuKas Opening Sessions** | the Aegean village · Sep 2025 | video · 02:51:45 |
+| **Jammin with DJ TAAA at ANDA Cafe, ZuKas** | ANDA Cafe · Sep 2025 | video · 02:13:54 |
+| **Anda Jam day 2 ZuKas** | the morning after · Sep 2025 | video · 00:38:31 |
+| **Mermaids & Sculptors: an Advanced Vibe Engineering Session** | Edge City Patagonia era · Oct 2025 | video · 02:21:56 |
+| **All of The Lights: Open Mic / Talent Showcase** | Edge City Patagonia era · Nov 2025 | video · 01:52:37 |
+| **edge song** | Edge City Patagonia era · Nov 2025 · an 11-minute spark | video · 00:11:22 |
+| **IERR Song Creation** | the writing room · Aug 2025 | video · 00:29:54 |
+
+**Wave 2b — still descending 🛬:** 15 more jams found in the family's StreamYard vault (Zu-village nights, festival stages, Zuzalu Library sessions, lofi home hours). They are being rescued to Drive right now and become real sessions the moment their Drive ids land. The site lists them honestly — **declared means declared, not done.** No dead links, no invented durations, no fabricated lyrics.
 
 ## 🎸 The consent story
 
