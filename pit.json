@@ -24,13 +24,13 @@
  "source": [
   {
    "type": "google-drive-file",
-   "note": "all 14 sessions stream from the family's Drive by file id; durations are the StreamYard manifest's own clocks. wave 2a (10 jams) landed 2026-09-23; wave 2b (15 more) is still descending from the vault rescue — declared means declared, not done. See README."
+   "note": "all 22 sessions stream from the family's Drive by file id; durations are the StreamYard manifest's own clocks. wave 2a (10 jams) landed 2026-09-23; wave 2b (8 jams — the library sessions + Christmas) landed later the same day. 7 remain: 4 deferred with the org-drive batch (Zuitzerland · ZuBerlin · Edge City lanes — they fly home with fresh signed URLs), 3 lofi home hours still in the rescue line. See README."
   }
  ],
  "counts": {
-  "sessions": 14,
+  "sessions": 22,
   "transcripts": 0,
-  "incoming": 15
+  "incoming": 7
  },
  "sessions": [
   {
@@ -242,6 +242,126 @@
    "transcript": null,
    "featured": false,
    "note": "2025-08-09 · IERR · the writing room · August 2025"
+  },
+  {
+   "id": "17B7kSyhfFNDKfbSkK7wuEW0qyB9UOs4a",
+   "title": "Merry Christmas Live From Shaka @ETHChiangMai Christmas Eve Party",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:15:51",
+   "media": {
+    "drive": "https://drive.google.com/file/d/17B7kSyhfFNDKfbSkK7wuEW0qyB9UOs4a/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": true,
+   "note": "2025-12-24 · ETHChiangMai Christmas Eve Party · December 2025"
+  },
+  {
+   "id": "1pkYVDJXglqer6hHMSw5sepecfqVW91iR",
+   "title": "sai jam dec 26",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:45:57",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1pkYVDJXglqer6hHMSw5sepecfqVW91iR/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2025-12-26 · Chiang Mai era · December 2025"
+  },
+  {
+   "id": "12g9fy9JlJVwWmldYW2qOGxcrz4PorQBZ",
+   "title": "Zuzalu Library Jam",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:04:29",
+   "media": {
+    "drive": "https://drive.google.com/file/d/12g9fy9JlJVwWmldYW2qOGxcrz4PorQBZ/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2026-01-26 · Zuzalu Library, Chiang Mai · January 2026"
+  },
+  {
+   "id": "15buSPk5VmeWIp3WE0g9E5eG9Y3Oy8D-k",
+   "title": "@ETHChiangMai AfterHours Hours Jam",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "00:43:47",
+   "media": {
+    "drive": "https://drive.google.com/file/d/15buSPk5VmeWIp3WE0g9E5eG9Y3Oy8D-k/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2026-01-29 · ETHChiangMai AfterHours · January 2026"
+  },
+  {
+   "id": "16lIWjkE7GCO5ef5w65OOj9yrdHCsoig3",
+   "title": "Sunday Improvisations and Gratitude Dedications to the hospitality of @4seasDeSoc with @ETHChiangMai",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:22:26",
+   "media": {
+    "drive": "https://drive.google.com/file/d/16lIWjkE7GCO5ef5w65OOj9yrdHCsoig3/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2026-02-01 · Zuzalu Library, Chiang Mai · February 2026"
+  },
+  {
+   "id": "190-s_Fgsj_PgjzG4Dezq4rRmVbXFa6H-",
+   "title": "ZUZALU LIBRARY EXHIBIT REHEARSAL JAM",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:43:20",
+   "media": {
+    "drive": "https://drive.google.com/file/d/190-s_Fgsj_PgjzG4Dezq4rRmVbXFa6H-/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": true,
+   "note": "2026-02-11 · Zuzalu Library, Chiang Mai · February 2026"
+  },
+  {
+   "id": "1AYfZ1KG7BMF58unNTZD7hrc0V76jIbG7",
+   "title": "zuzalu library exhibit hall rehearsal jam 2",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "00:48:44",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1AYfZ1KG7BMF58unNTZD7hrc0V76jIbG7/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2026-02-12 · Zuzalu Library, Chiang Mai · February 2026"
+  },
+  {
+   "id": "1fvOU99wToQp0kReL2VbrxG4Gq_iQH-Ur",
+   "title": "zuzalu library exhibit saturday jam",
+   "speakers": [
+    "Shaka Lei Kaumaka"
+   ],
+   "duration": "01:10:38",
+   "media": {
+    "drive": "https://drive.google.com/file/d/1fvOU99wToQp0kReL2VbrxG4Gq_iQH-Ur/view",
+    "kind": "video"
+   },
+   "transcript": null,
+   "featured": false,
+   "note": "2026-02-14 · Zuzalu Library, Chiang Mai · February 2026"
   }
  ],
  "llm": {
@@ -250,6 +370,6 @@
  },
  "hub": "https://publicinform.com",
  "registry": "https://publicinform.com/pits.json",
- "generated": "2026-09-23T10:30:00Z",
+ "generated": "2026-09-23T13:05:00Z",
  "generator": "sysadmin 🫡 + the AI ʻohana · the 2026-09-23 pit-for-everything order"
 }

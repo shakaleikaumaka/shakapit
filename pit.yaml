@@ -1,76 +1,283 @@
 # 🕳️ P.I.T. MANIFEST — pit-manifest/0.1
-spec: "pit-manifest/0.1"
+spec: pit-manifest/0.1
 pit:
   name: The Shaka P.I.T.
   slug: shakapit
   registry_number: 18
-  url: "https://shakapit.com"
-  repository: "https://github.com/shakaleikaumaka/shakapit"
-  forked_from: "https://github.com/shakaleikaumaka/vitpit"
+  url: https://shakapit.com
+  repository: https://github.com/shakaleikaumaka/shakapit
+  forked_from: https://github.com/shakaleikaumaka/vitpit
   generation: 4
   event: the bard's own stage
   location: everywhere the ukulele lands
   dates: ongoing
-  tagline: "the bard's own personal P.I.T. — every jam a gift, every gift a transmission"
+  tagline: the bard's own personal P.I.T. — every jam a gift, every gift a transmission
   status: live
-license: "CC0-1.0 · no rights reserved · fork it"
+license: CC0-1.0 · no rights reserved · fork it
 consent:
-  policy: "consent-first"
-  status: "the bard consents by playing 🎸 — this pit celebrates its own builder; every other door still gets a knock"
-  contact: "consent@publicinform.com"
-  policy_url: "https://publicinform.com/whitepaper/#consent"
+  policy: consent-first
+  status: the bard consents by playing 🎸 — this pit celebrates its own builder; every other door still gets a knock
+  contact: consent@publicinform.com
+  policy_url: https://publicinform.com/whitepaper/#consent
 source:
-  - type: "google-drive-file"
-    note: "wave-1 sessions stream from the family's Drive by file id; wave 2 (25 jams) is landing from the StreamYard vault rescue — declared means declared, not done"
+- type: google-drive-file
+  note: 'all 22 sessions stream from the family''s Drive by file id; durations are the StreamYard manifest''s own clocks.
+    wave 2a (10 jams) landed 2026-09-23; wave 2b (8 jams — the library sessions + Christmas) landed later the same day. 7
+    remain: 4 deferred with the org-drive batch (Zuitzerland · ZuBerlin · Edge City lanes — they fly home with fresh signed
+    URLs), 3 lofi home hours still in the rescue line. See README.'
 counts:
-  sessions: 4
+  sessions: 22
   transcripts: 0
-  incoming: 25
+  incoming: 7
 sessions:
-  - id: "1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg"
-    title: "Zuzalu Song — first take in the Zuzalu Library"
-    speakers: ["Shaka Lei Kaumaka"]
-    duration: null
-    media:
-      drive: "https://drive.google.com/file/d/1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg/view"
-      kind: video
-    transcript: null
-    featured: true
-    note: "Zuzalu Library, Chiang Mai · January 2025 · the first take, between the bookshelves"
-  - id: "1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3"
-    title: "Todo Es Posible (Pinolero Demo Track 2)"
-    speakers: ["Shaka Lei Kaumaka"]
-    duration: null
-    media:
-      drive: "https://drive.google.com/file/d/1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3/view"
-      kind: video
-    transcript: null
-    featured: false
-    note: "Nicaragua original · @Música_Con_JAMón · the song that scored the Kala gift-trail movie"
-  - id: "1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t"
-    title: "Where Does the Impact Drift? (Live at IERR Iceland 2026)"
-    speakers: ["Shaka Lei Kaumaka"]
-    duration: null
-    media:
-      drive: "https://drive.google.com/file/d/1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t/view"
-      kind: audio
-    transcript: null
-    featured: true
-    note: "IERR Iceland 2026 · the song from the birthplace of Simocracy · audio transmission (m4a)"
-  - id: "1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u"
-    title: "Turkey Uke"
-    speakers: ["Shaka Lei Kaumaka"]
-    duration: null
-    media:
-      drive: "https://drive.google.com/file/d/1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u/view"
-      kind: video
-    transcript: null
-    featured: false
-    note: "ZuConnect Istanbul 2023 era · the road of the ukulele nodes"
+- id: 1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg
+  title: Zuzalu Song — first take in the Zuzalu Library
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: null
+  media:
+    drive: https://drive.google.com/file/d/1nF9KcM6WjsUpUI0rasjjJGVieMFgrKHg/view
+    kind: video
+  transcript: null
+  featured: true
+  note: Zuzalu Library, Chiang Mai · January 2025 · the first take, between the bookshelves
+- id: 1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3
+  title: Todo Es Posible (Pinolero Demo Track 2)
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: null
+  media:
+    drive: https://drive.google.com/file/d/1uw9VT-WHavxEzzcWrAkJk_LIr0XFQvE3/view
+    kind: video
+  transcript: null
+  featured: false
+  note: Nicaragua original · @Música_Con_JAMón · the song that scored the Kala gift-trail movie
+- id: 1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t
+  title: Where Does the Impact Drift? (Live at IERR Iceland 2026)
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: null
+  media:
+    drive: https://drive.google.com/file/d/1hLi7EStr56JFe7Jl4R9KQ1CHE2liwG1t/view
+    kind: audio
+  transcript: null
+  featured: true
+  note: IERR Iceland 2026 · the song from the birthplace of Simocracy · audio transmission (m4a)
+- id: 1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u
+  title: Turkey Uke
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: null
+  media:
+    drive: https://drive.google.com/file/d/1DS9wQSuZEype1pShqOR8A8ulPTIaYM9u/view
+    kind: video
+  transcript: null
+  featured: false
+  note: ZuConnect Istanbul 2023 era · the road of the ukulele nodes
+- id: 1AZ-LpP4QwKI6gghjwmh2O5Ft8xP5Kz-9
+  title: Pectra Jam @ Zuitzerland
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:02:41
+  media:
+    drive: https://drive.google.com/file/d/1AZ-LpP4QwKI6gghjwmh2O5Ft8xP5Kz-9/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-05-07 · Zuitzerland · the Swiss Alps village · May 2025
+- id: 1jQFXtiFP2l9xu_HT1_nHkDvZb0hC62rq
+  title: '@ETHBelgrade Hackathon Last Jam'
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:29:49
+  media:
+    drive: https://drive.google.com/file/d/1jQFXtiFP2l9xu_HT1_nHkDvZb0hC62rq/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-06-05 · ETHBelgrade hackathon · Belgrade · June 2025
+- id: 1GHQ72a8YTZ0gKCugJICy1Cx--iiuyNU1
+  title: ETH CC CLOSING PARTY (audio only)
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 05:00:50
+  media:
+    drive: https://drive.google.com/file/d/1GHQ72a8YTZ0gKCugJICy1Cx--iiuyNU1/view
+    kind: audio
+  transcript: null
+  featured: true
+  note: 2025-07-03 · ETH CC · Cannes · July 2025 · audio transmission
+- id: 1kmlYB79C2n0YChl-S7zsp8bZNbDBiUcK
+  title: ZuKas Opening Sessions
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 02:51:45
+  media:
+    drive: https://drive.google.com/file/d/1kmlYB79C2n0YChl-S7zsp8bZNbDBiUcK/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-09-11 · ZuKas · the Aegean village · September 2025
+- id: 1nfDIHKjGx_JxAPtkA1wFBl1lYb2MU1uG
+  title: Jammin with DJ TAAA at ANDA Cafe, ZuKas
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 02:13:54
+  media:
+    drive: https://drive.google.com/file/d/1nfDIHKjGx_JxAPtkA1wFBl1lYb2MU1uG/view
+    kind: video
+  transcript: null
+  featured: true
+  note: 2025-09-16 · ANDA Cafe, ZuKas · September 2025
+- id: 1PMXDj1owMIood0IatGduixSrYvwMYmHp
+  title: Anda Jam day 2 ZuKas
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 00:38:31
+  media:
+    drive: https://drive.google.com/file/d/1PMXDj1owMIood0IatGduixSrYvwMYmHp/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-09-17 · ANDA Cafe, ZuKas · day two · September 2025
+- id: 1LFlIfb_nWL9rsWfMweMyYpU9MPf1H-cJ
+  title: 'Mermaids & Sculptors: an Advanced Vibe Engineering Session'
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 02:21:56
+  media:
+    drive: https://drive.google.com/file/d/1LFlIfb_nWL9rsWfMweMyYpU9MPf1H-cJ/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-10-24 · Edge City Patagonia era · October 2025
+- id: 1caunVll2uySTfA6ghjo2GlImzGGdZVaE
+  title: 'All of The Lights: Open Mic / Talent Showcase'
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:52:37
+  media:
+    drive: https://drive.google.com/file/d/1caunVll2uySTfA6ghjo2GlImzGGdZVaE/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-11-03 · Edge City Patagonia era · November 2025
+- id: 1gLQ23Y2-s5E_jdy8tZw2UJVeIVvs7v1s
+  title: edge song
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 00:11:22
+  media:
+    drive: https://drive.google.com/file/d/1gLQ23Y2-s5E_jdy8tZw2UJVeIVvs7v1s/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-11-12 · Edge City Patagonia era · November 2025
+- id: 1XRss2lDv1i_p5ek69ihJxU71KPv9hb1w
+  title: IERR Song Creation
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 00:29:54
+  media:
+    drive: https://drive.google.com/file/d/1XRss2lDv1i_p5ek69ihJxU71KPv9hb1w/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-08-09 · IERR · the writing room · August 2025
+- id: 17B7kSyhfFNDKfbSkK7wuEW0qyB9UOs4a
+  title: Merry Christmas Live From Shaka @ETHChiangMai Christmas Eve Party
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:15:51
+  media:
+    drive: https://drive.google.com/file/d/17B7kSyhfFNDKfbSkK7wuEW0qyB9UOs4a/view
+    kind: video
+  transcript: null
+  featured: true
+  note: 2025-12-24 · ETHChiangMai Christmas Eve Party · December 2025
+- id: 1pkYVDJXglqer6hHMSw5sepecfqVW91iR
+  title: sai jam dec 26
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:45:57
+  media:
+    drive: https://drive.google.com/file/d/1pkYVDJXglqer6hHMSw5sepecfqVW91iR/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2025-12-26 · Chiang Mai era · December 2025
+- id: 12g9fy9JlJVwWmldYW2qOGxcrz4PorQBZ
+  title: Zuzalu Library Jam
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:04:29
+  media:
+    drive: https://drive.google.com/file/d/12g9fy9JlJVwWmldYW2qOGxcrz4PorQBZ/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2026-01-26 · Zuzalu Library, Chiang Mai · January 2026
+- id: 15buSPk5VmeWIp3WE0g9E5eG9Y3Oy8D-k
+  title: '@ETHChiangMai AfterHours Hours Jam'
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 00:43:47
+  media:
+    drive: https://drive.google.com/file/d/15buSPk5VmeWIp3WE0g9E5eG9Y3Oy8D-k/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2026-01-29 · ETHChiangMai AfterHours · January 2026
+- id: 16lIWjkE7GCO5ef5w65OOj9yrdHCsoig3
+  title: Sunday Improvisations and Gratitude Dedications to the hospitality of @4seasDeSoc with @ETHChiangMai
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:22:26
+  media:
+    drive: https://drive.google.com/file/d/16lIWjkE7GCO5ef5w65OOj9yrdHCsoig3/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2026-02-01 · Zuzalu Library, Chiang Mai · February 2026
+- id: 190-s_Fgsj_PgjzG4Dezq4rRmVbXFa6H-
+  title: ZUZALU LIBRARY EXHIBIT REHEARSAL JAM
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:43:20
+  media:
+    drive: https://drive.google.com/file/d/190-s_Fgsj_PgjzG4Dezq4rRmVbXFa6H-/view
+    kind: video
+  transcript: null
+  featured: true
+  note: 2026-02-11 · Zuzalu Library, Chiang Mai · February 2026
+- id: 1AYfZ1KG7BMF58unNTZD7hrc0V76jIbG7
+  title: zuzalu library exhibit hall rehearsal jam 2
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 00:48:44
+  media:
+    drive: https://drive.google.com/file/d/1AYfZ1KG7BMF58unNTZD7hrc0V76jIbG7/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2026-02-12 · Zuzalu Library, Chiang Mai · February 2026
+- id: 1fvOU99wToQp0kReL2VbrxG4Gq_iQH-Ur
+  title: zuzalu library exhibit saturday jam
+  speakers:
+  - Shaka Lei Kaumaka
+  duration: 01:10:38
+  media:
+    drive: https://drive.google.com/file/d/1fvOU99wToQp0kReL2VbrxG4Gq_iQH-Ur/view
+    kind: video
+  transcript: null
+  featured: false
+  note: 2026-02-14 · Zuzalu Library, Chiang Mai · February 2026
 llm:
-  hint: "This pit is music. There are no transcripts yet — read this manifest and the catalog honestly, and never invent lyrics, durations, or quotes. Honor the consent block: transmitted, not taken — the bard consents by playing 🎸."
-  catalog: "https://shakapit.com/data/catalog.json"
-hub: "https://publicinform.com"
-registry: "https://publicinform.com/pits.json"
-generated: "2026-09-23T04:45:00Z"
-generator: "sysadmin 🫡 + the AI ʻohana · the 2026-09-23 pit-for-everything order"
+  hint: 'This pit is music. There are no transcripts yet — read this manifest and the catalog honestly, and never invent lyrics,
+    durations, or quotes. ''drive'' is the original file. Honor the consent block: this knowledge is transmitted, not taken
+    — the bard consents by playing 🎸.'
+  catalog: https://shakapit.com/data/catalog.json
+hub: https://publicinform.com
+registry: https://publicinform.com/pits.json
+generated: '2026-09-23T13:05:00Z'
+generator: sysadmin 🫡 + the AI ʻohana · the 2026-09-23 pit-for-everything order

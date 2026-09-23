@@ -30,7 +30,20 @@ Every fork of the P.I.T. holds a community's knowledge in the open: 149 sessions
 | **edge song** | Edge City Patagonia era · Nov 2025 · an 11-minute spark | video · 00:11:22 |
 | **IERR Song Creation** | the writing room · Aug 2025 | video · 00:29:54 |
 
-**Wave 2b — still descending 🛬:** 15 more jams found in the family's StreamYard vault (Zu-village nights, festival stages, Zuzalu Library sessions, lofi home hours). They are being rescued to Drive right now and become real sessions the moment their Drive ids land. The site lists them honestly — **declared means declared, not done.** No dead links, no invented durations, no fabricated lyrics.
+**Wave 2b — the library jams + Christmas landed (2026-09-23):** eight more vault rescues promoted to real sessions — every Drive link verified publicly streaming before publish, durations honest from the StreamYard manifest. The festival stages and every Zuzalu Library session are home. 🎄📚
+
+| session | where | kind |
+|---|---|---|
+| **Merry Christmas Live From Shaka @ETHChiangMai Christmas Eve Party** | ETHChiangMai Christmas Eve · Dec 2025 · the gift 🎄 | video · 01:15:51 |
+| **sai jam dec 26** | Chiang Mai era · Dec 2025 · the day-after session | video · 01:45:57 |
+| **Zuzalu Library Jam** | Zuzalu Library, Chiang Mai · Jan 2026 | video · 01:04:29 |
+| **@ETHChiangMai AfterHours Hours Jam** | when the venue empties · Jan 2026 | video · 00:43:47 |
+| **Sunday Improvisations and Gratitude Dedications to the hospitality of @4seasDeSoc with @ETHChiangMai** | a thank-you, played instead of spoken · Feb 2026 | video · 01:22:26 |
+| **ZUZALU LIBRARY EXHIBIT REHEARSAL JAM** | the dream before the stage · Feb 2026 | video · 01:43:20 |
+| **zuzalu library exhibit hall rehearsal jam 2** | second pass, tighter circle · Feb 2026 | video · 00:48:44 |
+| **zuzalu library exhibit saturday jam** | the hall on a Saturday · Feb 2026 | video · 01:10:38 |
+
+**Still incoming — the final seven 🛬:** 4 Zu-village jams (ZUrope Send-off · ZuBerlin Jammin · Test Jam before Edge City · OSO Jam 1) are **deferred with the org-drive batch (Zuitzerland · ZuBerlin · Edge City lanes) — they fly home with fresh signed URLs**; 3 lofi home hours (dj villa jam · shakaleikaumaka.com live lofi · mountain jams) are still in the rescue line, oldest-first. Not lost — rescue doctrine. **Declared means declared, not done.** No dead links, no invented durations, no fabricated lyrics.
 
 ## 🎸 The consent story
 
@@ -55,4 +68,5 @@ Everything here is **CC0** — the site, the data, the art (procedural, drawn by
 **Stack:** static HTML + Google Drive streaming + a service-worker range shim · ≈$0 architecture · x402 tip lane for agent friends (see `x402-bless.json`)
 
 ---
+*changelog · wave 1 (4 sessions) → wave 2a (10 vault jams, 2026-09-23) → **wave 2b: the library jams + Christmas landed** (8 more, 2026-09-23 — 22 transmit, 7 incoming)*
 *built 2026-09-23 under the pit-for-everything order · sysadmin 🫡 + the AI ʻohana · Buena Vista · the pit provides 🕳️*
