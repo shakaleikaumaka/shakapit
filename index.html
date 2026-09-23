@@ -914,7 +914,7 @@ function showUnified(s){
     if(stateEl && !vidDead) stateEl.textContent = '🌱 synced audio landing soon';
     document.querySelector('.ux-controls').style.display='none';
     const sub0 = document.getElementById('uxSub');
-    if(sub0 && !vidDead) sub0.innerHTML = '<span class="idle">karaoke arrives when the synced audio lands 🌱 — the recording above plays via Drive, straight from the family's vault</span>'; /* vidDead: R15 already set the honest line */
+    if(sub0 && !vidDead) sub0.innerHTML = '<span class="idle">karaoke arrives when the synced audio lands 🌱 — the recording above plays via Drive, straight from the family vault</span>'; /* vidDead: R15 already set the honest line */
   }
   const skip = d => { const dur = isFinite(media.duration)?media.duration:Infinity;
     media.currentTime = Math.max(0, Math.min(dur, media.currentTime + d));
