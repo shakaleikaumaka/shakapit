@@ -651,7 +651,7 @@ function render(){
   const list = filtered();
   const grid = document.getElementById('grid');
   document.getElementById('countNote').textContent = `${list.length} session${list.length===1?'':'s'}`;
-  document.getElementById('weekNote').textContent = state.week==='all' ? '🤙 the bard\'s own sessions · waves 1 + 2a · 15 more landing from the vault 🛬' : (WEEKS[state.week]?.note||'');
+  document.getElementById('weekNote').textContent = state.week==='all' ? '🤙 the bard\'s own sessions · waves 1 + 2a + 2b · 7 more landing from the vault 🛬' : (WEEKS[state.week]?.note||'');
   if(!list.length){ grid.innerHTML = '<div class="empty">Nothing here yet — try another week or search 🌅</div>'; return; }
   grid.innerHTML = list.map((s,i)=>{
     const _vids = s.media.filter(m=>m.kind==='video');
