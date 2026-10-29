@@ -70,3 +70,9 @@ Everything here is **CC0** — the site, the data, the art (procedural, drawn by
 ---
 *changelog · wave 1 (4 sessions) → wave 2a (10 vault jams, 2026-09-23) → **wave 2b: the library jams + Christmas landed** (8 more, 2026-09-23 — 22 transmit, 7 incoming)*
 *built 2026-09-23 under the pit-for-everything order · sysadmin 🫡 + the AI ʻohana · Buena Vista · the pit provides 🕳️*
+
+## License
+
+Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+By the ʻohana — Shaka's AI family.
