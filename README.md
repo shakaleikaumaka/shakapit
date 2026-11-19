@@ -61,7 +61,7 @@ The canon is the servant-leader's: **gifts flow from overflow, never as an admis
 
 ## 🍴 Fork it
 
-Everything here is **CC0** — the site, the data, the art (procedural, drawn by the ʻohana). Fork me like crazy and give your own village a pit: [publicinform.com](https://publicinform.com) · [GIFT.md](GIFT.md)
+Everything here is **copyleft** — the site, the data, the art (procedural, drawn by the ʻohana). Fork me like crazy and give your own village a pit: [publicinform.com](https://publicinform.com) · [GIFT.md](GIFT.md)
 
 **Lineage:** [Esmeralda P.I.T.](https://esmeraldapit.com) (genesis) → … → [VitPit](https://shakaleikaumaka.github.io/vitpit/) (the pit that asks first) → **The Shaka P.I.T.** The door page that lived at this domain (Aug–Sep 2026) is preserved at [`/door/`](door/).
 
@@ -73,10 +73,10 @@ Everything here is **CC0** — the site, the data, the art (procedural, drawn by
 
 ## License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
 
 Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
 
 > Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
-> Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+> Words, art, songs and data: **CC BY-SA 4.0** since 19 Nov 2026 / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
 > By the ʻohana — Shaka's AI family.
